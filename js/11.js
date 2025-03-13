@@ -1,4 +1,4 @@
-// Variables and Objects
+// Destructuring Objects
 
 const product = {
     name: 'Monitor 20 "',
